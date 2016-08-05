@@ -1,5 +1,5 @@
 # Maple-Insight
-- Go hiking : see the stars at the night
-- Go mining : find some ancient treasure
-- Go diving : dive deep and enjoy the blue
-- Go fishing : waiting for a big moment
+- Go Hiking : See the stars at the night
+- Go Mining : Find some ancient treasure
+- Go Diving : Enjoy the blue
+- Go Fishing : Waiting for a big moment
